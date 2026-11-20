@@ -2,6 +2,8 @@
 
 An interactive scrollytelling page about 250 top-rated games, and why critic scores from different eras can't be compared directly.
 
+View the page here: https://htmlpreview.github.io/?https://github.com/jimbojamborine/gaming/blob/main/index.html
+
 As you scroll, one chart reshapes itself through eight steps:
 
 1. **The list:** the top 250 games on Metacritic as dots, by release year and Metascore.
