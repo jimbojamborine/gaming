@@ -24,14 +24,6 @@ open index.html          # macOS; or just double-click the file
 python3 -m http.server   # or serve the folder and visit http://localhost:8000
 ```
 
-## Host it on GitHub Pages
-
-1. Go to **Settings → Pages**.
-2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Pick the `main` branch and the `/ (root)` folder, then save.
-
-After a minute the page is live at `https://<your-username>.github.io/<repo-name>/`.
-
 ## How it works
 
 - **Data:** the first 250 entries of Metacritic's "Best games of all time" list, sorted by Metascore, retrieved on 19 November 2026. The data is embedded in `index.html` as one array of `[title, release year, Metascore]`.
