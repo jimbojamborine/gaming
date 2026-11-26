@@ -2,7 +2,7 @@
 
 An interactive scrollytelling page about 250 top-rated games, and why critic scores from different eras can't be compared directly.
 
-View the page here: [https://htmlpreview.github.io/?https://github.com/jimbojamborine/gaming/blob/main/index.html](https://jamie-jamieson.com/how-would-games-rank-if-each-one-were-rated-as-if-no-previous-game-had-come-before-it/)
+View the page here: https://jamie-jamieson.com/how-would-games-rank-if-each-one-were-rated-as-if-no-previous-game-had-come-before-it/ 
 
 As you scroll, one chart reshapes itself through eight steps:
 
